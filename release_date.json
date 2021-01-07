@@ -1,0 +1,2110 @@
+{
+    "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28\/playlists?offset=0&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/2GU4vySfLovujWqROy98HN"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/2GU4vySfLovujWqROy98HN",
+            "id": "2GU4vySfLovujWqROy98HN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b273072e9faef2ef7b6db63834a3ab67616d0000b2732887f8c05b5a9f1cb105be29ab67616d0000b2737433176f037e0ba14190c34fab67616d0000b273f54b99bf27cda88f4a7403ce",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b273072e9faef2ef7b6db63834a3ab67616d0000b2732887f8c05b5a9f1cb105be29ab67616d0000b2737433176f037e0ba14190c34fab67616d0000b273f54b99bf27cda88f4a7403ce",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b273072e9faef2ef7b6db63834a3ab67616d0000b2732887f8c05b5a9f1cb105be29ab67616d0000b2737433176f037e0ba14190c34fab67616d0000b273f54b99bf27cda88f4a7403ce",
+                    "width": 60
+                }
+            ],
+            "name": "Impossible",
+            "owner": {
+                "display_name": "maria michaela",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/jwqihy0rtv1q804c0m3flhn5a"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/jwqihy0rtv1q804c0m3flhn5a",
+                "id": "jwqihy0rtv1q804c0m3flhn5a",
+                "type": "user",
+                "uri": "spotify:user:jwqihy0rtv1q804c0m3flhn5a"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTM0LDZkOGM4NTNhZDc3MThhMGZjNDFlODgzNWYxMjExMDY0NmQzYTU1OTM=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/2GU4vySfLovujWqROy98HN\/tracks",
+                "total": 133
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2GU4vySfLovujWqROy98HN"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/6Cqs8vu9ulZ4POg5Tq5djA"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/6Cqs8vu9ulZ4POg5Tq5djA",
+            "id": "6Cqs8vu9ulZ4POg5Tq5djA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2731dacfbc31cc873d132958af9ab67616d0000b27361e491f9bbbc1b63fa8fdf19ab67616d0000b273a487deeecb334b6619489d74ab67616d0000b273bd7ca47d665d337c265a6a04",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2731dacfbc31cc873d132958af9ab67616d0000b27361e491f9bbbc1b63fa8fdf19ab67616d0000b273a487deeecb334b6619489d74ab67616d0000b273bd7ca47d665d337c265a6a04",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2731dacfbc31cc873d132958af9ab67616d0000b27361e491f9bbbc1b63fa8fdf19ab67616d0000b273a487deeecb334b6619489d74ab67616d0000b273bd7ca47d665d337c265a6a04",
+                    "width": 60
+                }
+            ],
+            "name": "\u2601\ufe0f  (2)",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NCw2MWFjMTA1MDIzMGEyMzRmZmQwNThiZDFhNTI2OTQ2NzYwNmI3OTMw",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/6Cqs8vu9ulZ4POg5Tq5djA\/tracks",
+                "total": 76
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6Cqs8vu9ulZ4POg5Tq5djA"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/1fZmBPGRfKZJz5b9QERKnJ"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/1fZmBPGRfKZJz5b9QERKnJ",
+            "id": "1fZmBPGRfKZJz5b9QERKnJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27308764105cf360a25dd40b53cab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b273626745b3aa04899001a924adab67616d0000b2737fcead687e99583072cc217b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27308764105cf360a25dd40b53cab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b273626745b3aa04899001a924adab67616d0000b2737fcead687e99583072cc217b",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27308764105cf360a25dd40b53cab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b273626745b3aa04899001a924adab67616d0000b2737fcead687e99583072cc217b",
+                    "width": 60
+                }
+            ],
+            "name": "not chill",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTIzLDIwOWVhYWMwZjA1OGJjODU3ZmIxMWMyYmZjNDVmZmE1ODdhZjEzYjg=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/1fZmBPGRfKZJz5b9QERKnJ\/tracks",
+                "total": 116
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1fZmBPGRfKZJz5b9QERKnJ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1E8MTZd4iNYHPp"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1E8MTZd4iNYHPp",
+            "id": "37i9dQZF1E8MTZd4iNYHPp",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/seeded-session-images.scdn.co\/v1\/img\/track\/1bM50INir8voAkVoKuvEUI\/en",
+                    "width": null
+                }
+            ],
+            "name": "OMG (feat. will.i.am) Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/spotify"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY4MzM0MzEsMDAwMDAwMDAwZGViNGEwNDcwODIxZWQ3M2IyNTY2MGJhYWZiMmM3Yg==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1E8MTZd4iNYHPp\/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8MTZd4iNYHPp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/4EM6PV35V9oqOn9252YfmQ"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/4EM6PV35V9oqOn9252YfmQ",
+            "id": "4EM6PV35V9oqOn9252YfmQ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27361b07d8471f34aa6616eaf21ab67616d0000b273ed71124ea2ab3ddc260eb1b6ab67616d0000b273fb3dcedb1da63eb4be8c7433fade577145599daff924bb7b28386a84f67bd1db",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27361b07d8471f34aa6616eaf21ab67616d0000b273ed71124ea2ab3ddc260eb1b6ab67616d0000b273fb3dcedb1da63eb4be8c7433fade577145599daff924bb7b28386a84f67bd1db",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27361b07d8471f34aa6616eaf21ab67616d0000b273ed71124ea2ab3ddc260eb1b6ab67616d0000b273fb3dcedb1da63eb4be8c7433fade577145599daff924bb7b28386a84f67bd1db",
+                    "width": 60
+                }
+            ],
+            "name": "party",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "ODQzLDA1YTcyNmU0OTA2NzU3YWE5ODJkNTMzNGIyZTViNGZjM2QwNzQ2Nzc=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/4EM6PV35V9oqOn9252YfmQ\/tracks",
+                "total": 804
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4EM6PV35V9oqOn9252YfmQ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/0kLyb6aIxuznzWyFEmAl7L"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/0kLyb6aIxuznzWyFEmAl7L",
+            "id": "0kLyb6aIxuznzWyFEmAl7L",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2730a9a606015c3eda4843520bdab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b2738f9f218b386e6aeb27184307ab67616d0000b2739977eb01e4e40c8357435ef9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2730a9a606015c3eda4843520bdab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b2738f9f218b386e6aeb27184307ab67616d0000b2739977eb01e4e40c8357435ef9",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2730a9a606015c3eda4843520bdab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b2738f9f218b386e6aeb27184307ab67616d0000b2739977eb01e4e40c8357435ef9",
+                    "width": 60
+                }
+            ],
+            "name": "80\u2019s Club",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzgsN2FkMjVlNzc2MzBmM2NhZDk3ZWVlMmIwMTE5MTgxOTlmMzgwZTllYQ==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/0kLyb6aIxuznzWyFEmAl7L\/tracks",
+                "total": 32
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0kLyb6aIxuznzWyFEmAl7L"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/5Yub4zxGlNtsMdnnOSwPt9"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/5Yub4zxGlNtsMdnnOSwPt9",
+            "id": "5Yub4zxGlNtsMdnnOSwPt9",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbdb6a549fda49c3bc56f20672",
+                    "width": null
+                }
+            ],
+            "name": "\ud835\udc29\ud835\udc1a\ud835\udc2b\ud835\udc2d\ud835\udc32 \ud835\udc2d\ud835\udc22\ud835\udc26\ud835\udc1e",
+            "owner": {
+                "display_name": "solenn.db",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/dollyhoran"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/dollyhoran",
+                "id": "dollyhoran",
+                "type": "user",
+                "uri": "spotify:user:dollyhoran"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "ODYsMzgwYmMwNDE5NWI2Y2Q5MjgwYTZlNDQwZWRjNmY0NjliNTU2ZjliMw==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/5Yub4zxGlNtsMdnnOSwPt9\/tracks",
+                "total": 82
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5Yub4zxGlNtsMdnnOSwPt9"
+        },
+        {
+            "collaborative": false,
+            "description": "ish",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/0ccJ8wNfytT5bQNSzupQBN"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/0ccJ8wNfytT5bQNSzupQBN",
+            "id": "0ccJ8wNfytT5bQNSzupQBN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27386b0c9728ad3ed338eaeea79ab67616d0000b273c7b1b93cd2dcb8d528a30a1dab67616d0000b273ca8d656fa57db4cce117f53bab67616d0000b273d7dda886f19de36118b5f3f4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27386b0c9728ad3ed338eaeea79ab67616d0000b273c7b1b93cd2dcb8d528a30a1dab67616d0000b273ca8d656fa57db4cce117f53bab67616d0000b273d7dda886f19de36118b5f3f4",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27386b0c9728ad3ed338eaeea79ab67616d0000b273c7b1b93cd2dcb8d528a30a1dab67616d0000b273ca8d656fa57db4cce117f53bab67616d0000b273d7dda886f19de36118b5f3f4",
+                    "width": 60
+                }
+            ],
+            "name": "highschool dance (2007-2015)",
+            "owner": {
+                "display_name": "Jalem Gosal",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/jalemg"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/jalemg",
+                "id": "jalemg",
+                "type": "user",
+                "uri": "spotify:user:jalemg"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjgzLGI2ZWY3MmRmOGVjODM2ZDBkZTljODhmYTdiZGYzMzJmZWNmYzVjNzE=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/0ccJ8wNfytT5bQNSzupQBN\/tracks",
+                "total": 194
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0ccJ8wNfytT5bQNSzupQBN"
+        },
+        {
+            "collaborative": false,
+            "description": "Nothing but unforgettable songs from the 80s.",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DXb57FjYWz00c"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1DXb57FjYWz00c",
+            "id": "37i9dQZF1DXb57FjYWz00c",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706f000000035e98bc8db32dc5981d0df665",
+                    "width": null
+                }
+            ],
+            "name": "80s Hits",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/spotify"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTU5NDIxNjY1NCwwMDAwMDA1MjAwMDAwMTczMmViN2E1ZmYwMDAwMDE3MTU5NGZhMzhm",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1DXb57FjYWz00c\/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DXb57FjYWz00c"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/0uGoakGgowognWA5HNVZBV"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/0uGoakGgowognWA5HNVZBV",
+            "id": "0uGoakGgowognWA5HNVZBV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b273072e9faef2ef7b6db63834a3ab67616d0000b2733e0698e4ae5ffb82a005aeebab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b273072e9faef2ef7b6db63834a3ab67616d0000b2733e0698e4ae5ffb82a005aeebab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b273072e9faef2ef7b6db63834a3ab67616d0000b2733e0698e4ae5ffb82a005aeebab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+                    "width": 60
+                }
+            ],
+            "name": "\u303d\ufe0f",
+            "owner": {
+                "display_name": "Jacob",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/u34isredqihjgyqg7fq1dkn99"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/u34isredqihjgyqg7fq1dkn99",
+                "id": "u34isredqihjgyqg7fq1dkn99",
+                "type": "user",
+                "uri": "spotify:user:u34isredqihjgyqg7fq1dkn99"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzE3LGM0MTQyNGJlOTAwZWFjN2Y2ZTE5NmY4ZmFiMWI1YzZhZjdjMDliYmY=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/0uGoakGgowognWA5HNVZBV\/tracks",
+                "total": 262
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0uGoakGgowognWA5HNVZBV"
+        },
+        {
+            "collaborative": false,
+            "description": "the best songs from the 2010&#x27;s | top songs of 2010&#x27;s | house party | songs from your childhood | aux | u want me on aux ? | aux battles | prom 2020 | party starters | songs that get everyone singing | 2010s top hits | today&#x27;s top hits | karaoke songs | party songs | songs everyone knows | 2010-2014",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/25vZ1eqqNSIOCSsgpqvUR8"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/25vZ1eqqNSIOCSsgpqvUR8",
+            "id": "25vZ1eqqNSIOCSsgpqvUR8",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebb7c7bf4936ed06117a718c79a",
+                    "width": null
+                }
+            ],
+            "name": "2010\u2019s party",
+            "owner": {
+                "display_name": "megannnlizz",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/megannnlizz"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/megannnlizz",
+                "id": "megannnlizz",
+                "type": "user",
+                "uri": "spotify:user:megannnlizz"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "Mzc2LDFlNWNmNmRkZDNlZjIzYjYzYmViZTZkNDc3YjBjZTdkYWU2ODc1OWI=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/25vZ1eqqNSIOCSsgpqvUR8\/tracks",
+                "total": 269
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:25vZ1eqqNSIOCSsgpqvUR8"
+        },
+        {
+            "collaborative": false,
+            "description": "&quot;And it goes a little something like this...&quot; insta: @liam.casserly",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/2R5V0B0eKgdUTm6RwJ30D2"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/2R5V0B0eKgdUTm6RwJ30D2",
+            "id": "2R5V0B0eKgdUTm6RwJ30D2",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbba720744bb9216be334ebfca",
+                    "width": null
+                }
+            ],
+            "name": "2010s House Party",
+            "owner": {
+                "display_name": "Liam Casserly",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/lcasserly18"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/lcasserly18",
+                "id": "lcasserly18",
+                "type": "user",
+                "uri": "spotify:user:lcasserly18"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NTQ5LGVhNWJlYzYxZTgzOTA3MGRjNjRjOGU5NWM0MWVlZGY3OTBkOWViZDY=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/2R5V0B0eKgdUTm6RwJ30D2\/tracks",
+                "total": 415
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2R5V0B0eKgdUTm6RwJ30D2"
+        },
+        {
+            "collaborative": false,
+            "description": "Top Hits in EDM, Pop, HipHop! On IG @partyplaylist2020",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/5ge2YqUbZrmqd2Mve8Uezf"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/5ge2YqUbZrmqd2Mve8Uezf",
+            "id": "5ge2YqUbZrmqd2Mve8Uezf",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbe610f58e7a7ebe37f4ddf650",
+                    "width": null
+                }
+            ],
+            "name": "Party Playlist 2021",
+            "owner": {
+                "display_name": "connor.smith09",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/connor.smith09"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/connor.smith09",
+                "id": "connor.smith09",
+                "type": "user",
+                "uri": "spotify:user:connor.smith09"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTUyNzAsNmZkMGQ5ZmQ5OTQ2OGQzNWVhOGMxYzE5ZTQ0MGQ5YjQ1ZDAyZGM0Ng==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/5ge2YqUbZrmqd2Mve8Uezf\/tracks",
+                "total": 241
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5ge2YqUbZrmqd2Mve8Uezf"
+        },
+        {
+            "collaborative": false,
+            "description": "Party like it\u2019s one of the years between 2010-2019.",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX9oegrjMzKDW"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1DX9oegrjMzKDW",
+            "id": "37i9dQZF1DX9oegrjMzKDW",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706f000000038663be06e69f49628cf83a56",
+                    "width": null
+                }
+            ],
+            "name": "The Party Hits of the 2010s",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/spotify"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxMDAwNTg4NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1DX9oegrjMzKDW\/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DX9oegrjMzKDW"
+        },
+        {
+            "collaborative": true,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/1NywVkUtIMWCxFZQDCeh5t"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/1NywVkUtIMWCxFZQDCeh5t",
+            "id": "1NywVkUtIMWCxFZQDCeh5t",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273c0c05243a846dda6c84607f9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273c0c05243a846dda6c84607f9",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273c0c05243a846dda6c84607f9",
+                    "width": 60
+                }
+            ],
+            "name": "\u2601\ufe0f ",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTc5LGQyZTdmMTA2Nzc5N2ViMzkyNGM0ZWUwMWI4OWZjZmIyMmViYmU3M2U=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/1NywVkUtIMWCxFZQDCeh5t\/tracks",
+                "total": 151
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1NywVkUtIMWCxFZQDCeh5t"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/1Lk28kjHuzAU9FNV3DFGXM"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/1Lk28kjHuzAU9FNV3DFGXM",
+            "id": "1Lk28kjHuzAU9FNV3DFGXM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273c0c05243a846dda6c84607f9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273c0c05243a846dda6c84607f9",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273c0c05243a846dda6c84607f9",
+                    "width": 60
+                }
+            ],
+            "name": "\u2601\ufe0f \u2601\ufe0f \u2601\ufe0f ",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NTYsYmY4YzQxNTg3NDZmZTBiYTU4ZTI2ZTAxZGNiNGQ2NmE1N2Q3NjI2Yw==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/1Lk28kjHuzAU9FNV3DFGXM\/tracks",
+                "total": 160
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1Lk28kjHuzAU9FNV3DFGXM"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/63NREdv9LSfIY9c6vI7UuI"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/63NREdv9LSfIY9c6vI7UuI",
+            "id": "63NREdv9LSfIY9c6vI7UuI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2730d581a8b03de14922da0caadab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b273ebc4a0ab6ba7df9219bf7203",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2730d581a8b03de14922da0caadab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b273ebc4a0ab6ba7df9219bf7203",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2730d581a8b03de14922da0caadab67616d0000b2731420959e41e5e8350c0beb91ab67616d0000b2732350e31bc346a6c20e9de166ab67616d0000b273ebc4a0ab6ba7df9219bf7203",
+                    "width": 60
+                }
+            ],
+            "name": "i should play this more ",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTMsYzM5OTM5NmU4ZDYzYzc5OWJmMzI3MTk2MmM3OWVkMzE0YTgxMWRhZg==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/63NREdv9LSfIY9c6vI7UuI\/tracks",
+                "total": 12
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:63NREdv9LSfIY9c6vI7UuI"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/53rZ0vhXyeSoFhZXgQX1D0"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/53rZ0vhXyeSoFhZXgQX1D0",
+            "id": "53rZ0vhXyeSoFhZXgQX1D0",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbc6d35588f19d4fd5568f4435",
+                    "width": null
+                }
+            ],
+            "name": "mcconaughey style",
+            "owner": {
+                "display_name": "xander.maschke",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/xander.maschke"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/xander.maschke",
+                "id": "xander.maschke",
+                "type": "user",
+                "uri": "spotify:user:xander.maschke"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NDcsYWNkMmEyOTUwZDUyOGI4YzY4ZjAwY2UxMDE4ZWFlNzBlYzExOTc5MQ==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/53rZ0vhXyeSoFhZXgQX1D0\/tracks",
+                "total": 40
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:53rZ0vhXyeSoFhZXgQX1D0"
+        },
+        {
+            "collaborative": false,
+            "description": "The songs you loved most this year, all wrapped up.",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1EM1CeAVvyq84S"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1EM1CeAVvyq84S",
+            "id": "37i9dQZF1EM1CeAVvyq84S",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/lineup-images.scdn.co\/wrapped-2020-top100_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2020",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/spotify"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjY3NzQ1OTQsMDAwMDAwMDA2OTBiZmJiMjk3NmVmNDI5NjkwNjQ3ODVjYWI0YjE2Ng==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1EM1CeAVvyq84S\/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1EM1CeAVvyq84S"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/7FYwwceNaXBovvKp9cIwRy"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/7FYwwceNaXBovvKp9cIwRy",
+            "id": "7FYwwceNaXBovvKp9cIwRy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27304a88e3cc5244982ce656df1ab67616d0000b273420e56812ad5ead85c4e1ed8ab67616d0000b273661f0a4de7f2d3a7c945f2ddab67616d0000b2736cfe31d4e5d58710add69045",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27304a88e3cc5244982ce656df1ab67616d0000b273420e56812ad5ead85c4e1ed8ab67616d0000b273661f0a4de7f2d3a7c945f2ddab67616d0000b2736cfe31d4e5d58710add69045",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27304a88e3cc5244982ce656df1ab67616d0000b273420e56812ad5ead85c4e1ed8ab67616d0000b273661f0a4de7f2d3a7c945f2ddab67616d0000b2736cfe31d4e5d58710add69045",
+                    "width": 60
+                }
+            ],
+            "name": "Immaculate Vibes",
+            "owner": {
+                "display_name": "maria michaela",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/jwqihy0rtv1q804c0m3flhn5a"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/jwqihy0rtv1q804c0m3flhn5a",
+                "id": "jwqihy0rtv1q804c0m3flhn5a",
+                "type": "user",
+                "uri": "spotify:user:jwqihy0rtv1q804c0m3flhn5a"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTkyLDhhMzNiM2ExOWFmNjdmYmE1ZTA1YjBhNzkyMTIxY2RkNGE3YTNjYmQ=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/7FYwwceNaXBovvKp9cIwRy\/tracks",
+                "total": 191
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7FYwwceNaXBovvKp9cIwRy"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1E8IzaHD3C8rDy"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1E8IzaHD3C8rDy",
+            "id": "37i9dQZF1E8IzaHD3C8rDy",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/seeded-session-images.scdn.co\/v1\/img\/track\/0u4htORODiTK9vHVA89MQX\/en",
+                    "width": null
+                }
+            ],
+            "name": "Lovefool Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/spotify"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY4MzM0MzEsMDAwMDAwMDAwNTU3MTkyZjcxZDk5MmEzZTEwNGVkMWIyN2Q1NTEwNQ==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1E8IzaHD3C8rDy\/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8IzaHD3C8rDy"
+        },
+        {
+            "collaborative": false,
+            "description": "a love story baby - play in chronological order",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/4z4zjMEtMYJBkuGef7fyLp"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/4z4zjMEtMYJBkuGef7fyLp",
+            "id": "4z4zjMEtMYJBkuGef7fyLp",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbacadc7c63b511ad68bc4d2e1",
+                    "width": null
+                }
+            ],
+            "name": "\ud835\udc60\ud835\udc5c\ud835\udc62\ud835\udc59\ud835\udc5a\ud835\udc4e\ud835\udc61\ud835\udc52\ud835\udc60",
+            "owner": {
+                "display_name": "tiffany barbosa \ud83e\ude90",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/tiffanybarbosa"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/tiffanybarbosa",
+                "id": "tiffanybarbosa",
+                "type": "user",
+                "uri": "spotify:user:tiffanybarbosa"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "Mzg5LDI3ODBkODNiZjcyYzE5NzE4ZjJiYjNhMmQ2NGQ4ZTM5Yjc2MWQwYmM=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/4z4zjMEtMYJBkuGef7fyLp\/tracks",
+                "total": 121
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4z4zjMEtMYJBkuGef7fyLp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/4duzEV1shQCUHNxKz1Ycnw"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/4duzEV1shQCUHNxKz1Ycnw",
+            "id": "4duzEV1shQCUHNxKz1Ycnw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27382e3e6968e73ec00a9f7861b",
+                    "width": 640
+                }
+            ],
+            "name": "umich lights",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NCw5ZGFmYmM4ZThkNTBmNGVkMmNhZTYyNDllZmZmZTAwZTJiYWVmNjFh",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/4duzEV1shQCUHNxKz1Ycnw\/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4duzEV1shQCUHNxKz1Ycnw"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/46CwKixdQZoELEPChbJRRE"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/46CwKixdQZoELEPChbJRRE",
+            "id": "46CwKixdQZoELEPChbJRRE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27378933b5beedeb77912107905ab67616d0000b2739478c87599550dd73bfa7e02ab67616d0000b273ba93cb5d7f8450ac548e04b6ab67616d0000b273c21e95926400939bba3c8730",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27378933b5beedeb77912107905ab67616d0000b2739478c87599550dd73bfa7e02ab67616d0000b273ba93cb5d7f8450ac548e04b6ab67616d0000b273c21e95926400939bba3c8730",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27378933b5beedeb77912107905ab67616d0000b2739478c87599550dd73bfa7e02ab67616d0000b273ba93cb5d7f8450ac548e04b6ab67616d0000b273c21e95926400939bba3c8730",
+                    "width": 60
+                }
+            ],
+            "name": "christmas",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "OSxhZjQ1YTA4MWI4ZWU2MmZlMzQwODI4YzA0MDg3N2NlNDhiYTUwOTE1",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/46CwKixdQZoELEPChbJRRE\/tracks",
+                "total": 6
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:46CwKixdQZoELEPChbJRRE"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/4tVv36FPvPyQuuzZgh692N"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/4tVv36FPvPyQuuzZgh692N",
+            "id": "4tVv36FPvPyQuuzZgh692N",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27302a999c3a283b5392e57737dab67616d0000b2732d9f3326c45a2733eea2164fab67616d0000b273c0272c5b4cba114ea0fb9e5cab67616d0000b273c68f26a3d34fbd0faed2b473",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27302a999c3a283b5392e57737dab67616d0000b2732d9f3326c45a2733eea2164fab67616d0000b273c0272c5b4cba114ea0fb9e5cab67616d0000b273c68f26a3d34fbd0faed2b473",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27302a999c3a283b5392e57737dab67616d0000b2732d9f3326c45a2733eea2164fab67616d0000b273c0272c5b4cba114ea0fb9e5cab67616d0000b273c68f26a3d34fbd0faed2b473",
+                    "width": 60
+                }
+            ],
+            "name": "2007-2010 R&B, Hip Hop and Rap",
+            "owner": {
+                "display_name": "Jonathan Tao",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/12163952460"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/12163952460",
+                "id": "12163952460",
+                "type": "user",
+                "uri": "spotify:user:12163952460"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTE2LGYwMmFkZmU4OWFmNzdkZjlkMjAxODg3MTE0M2YzZDViZDY2NGUyZGM=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/4tVv36FPvPyQuuzZgh692N\/tracks",
+                "total": 111
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4tVv36FPvPyQuuzZgh692N"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/6QtfDV5ZJ7ipw4Gh0Ua1yh"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/6QtfDV5ZJ7ipw4Gh0Ua1yh",
+            "id": "6QtfDV5ZJ7ipw4Gh0Ua1yh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2738ff7c3580d429c8212b9a3b6ab67616d0000b273969f92a8ae964ac3de904466ab67616d0000b2739e447b59bd3e2cbefaa31d91ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2738ff7c3580d429c8212b9a3b6ab67616d0000b273969f92a8ae964ac3de904466ab67616d0000b2739e447b59bd3e2cbefaa31d91ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2738ff7c3580d429c8212b9a3b6ab67616d0000b273969f92a8ae964ac3de904466ab67616d0000b2739e447b59bd3e2cbefaa31d91ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+                    "width": 60
+                }
+            ],
+            "name": "football",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NSwzMGRkYjVlYzFkMWFiMGRlYTA1MGUxMmRjMmRiOWZlN2E3ZTZjMTI1",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/6QtfDV5ZJ7ipw4Gh0Ua1yh\/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6QtfDV5ZJ7ipw4Gh0Ua1yh"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/3fPZvJi5yaVrTh4qLkG9bg"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/3fPZvJi5yaVrTh4qLkG9bg",
+            "id": "3fPZvJi5yaVrTh4qLkG9bg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2730ac87cde22c461651a84b22aab67616d0000b27326bb752c0e7d3399957edab8ab67616d0000b273702ad23efbc7c5063f69721cab67616d0000b2738900ac21ab3fad0aefdca82f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2730ac87cde22c461651a84b22aab67616d0000b27326bb752c0e7d3399957edab8ab67616d0000b273702ad23efbc7c5063f69721cab67616d0000b2738900ac21ab3fad0aefdca82f",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2730ac87cde22c461651a84b22aab67616d0000b27326bb752c0e7d3399957edab8ab67616d0000b273702ad23efbc7c5063f69721cab67616d0000b2738900ac21ab3fad0aefdca82f",
+                    "width": 60
+                }
+            ],
+            "name": "mr krabs robot dance",
+            "owner": {
+                "display_name": "rym.com\/agentlegiant",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/11157442567"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/11157442567",
+                "id": "11157442567",
+                "type": "user",
+                "uri": "spotify:user:11157442567"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTA4LDAwZWI3MGNiNjYxMDI3MWI0Y2RiZmMxOGUyYWRmZDIyYjlmODk5ZTM=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/3fPZvJi5yaVrTh4qLkG9bg\/tracks",
+                "total": 52
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3fPZvJi5yaVrTh4qLkG9bg"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/78KFWf4Wf8IbFIsrNV8RuO"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/78KFWf4Wf8IbFIsrNV8RuO",
+            "id": "78KFWf4Wf8IbFIsrNV8RuO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2730cd942c1a864afa4e92d04f2ab67616d0000b273743fa009bdf097d15c2ddd60ab67616d0000b273b81d66d1416afa139d12767bab67616d0000b273fe1c22315738dd6e313e400f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2730cd942c1a864afa4e92d04f2ab67616d0000b273743fa009bdf097d15c2ddd60ab67616d0000b273b81d66d1416afa139d12767bab67616d0000b273fe1c22315738dd6e313e400f",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2730cd942c1a864afa4e92d04f2ab67616d0000b273743fa009bdf097d15c2ddd60ab67616d0000b273b81d66d1416afa139d12767bab67616d0000b273fe1c22315738dd6e313e400f",
+                    "width": 60
+                }
+            ],
+            "name": "you would like this",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NjcsMjI3MjIwYjczODg2ZWU4YzJlNTY5ZjQ1NjBlNDEzYzFiZjhkM2I2Yg==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/78KFWf4Wf8IbFIsrNV8RuO\/tracks",
+                "total": 64
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:78KFWf4Wf8IbFIsrNV8RuO"
+        },
+        {
+            "collaborative": false,
+            "description": "sad songs 2020 &amp; more classics and love songs. Let your tears out with this sad playlist. Try + sad playlists like <a href=\"spotify:playlist:6XFfCL23a4TwyxuhEY2cXb\">'Sad and I don't Care'<\/a> and <a href=\"spotify:playlist:0RRzozSRGXUD8tyJMEEZL8\">Heartbroken songs<\/a> to feed your sadness. ",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/7ABD15iASBIpPP5uJ5awvq"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/7ABD15iASBIpPP5uJ5awvq",
+            "id": "7ABD15iASBIpPP5uJ5awvq",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbf1f005136b4c3fc713af0fd0",
+                    "width": null
+                }
+            ],
+            "name": "Sad Songs \ud83d\ude22 for crying yourself to sleep",
+            "owner": {
+                "display_name": "Indiemono",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/sanik007"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/sanik007",
+                "id": "sanik007",
+                "type": "user",
+                "uri": "spotify:user:sanik007"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzYyNCwzOTQ0NzU4ZWI2M2IzNzQyNGY3MjU1NmE2MWI4NDA2MDkwNDg5Mzdl",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/7ABD15iASBIpPP5uJ5awvq\/tracks",
+                "total": 200
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7ABD15iASBIpPP5uJ5awvq"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/5JJVo43WuIYPXr9uqI5uh3"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/5JJVo43WuIYPXr9uqI5uh3",
+            "id": "5JJVo43WuIYPXr9uqI5uh3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b81d66d1416afa139d12767b",
+                    "width": 640
+                }
+            ],
+            "name": "old id play",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NCw5OTJkMjA1ZTM5OWRiZmJhMTUyNzEwNTU5ZTdjNDEwMGU4ZWJjMmZk",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/5JJVo43WuIYPXr9uqI5uh3\/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5JJVo43WuIYPXr9uqI5uh3"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/5xFcqDydP5Fzw1TdogW1xM"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/5xFcqDydP5Fzw1TdogW1xM",
+            "id": "5xFcqDydP5Fzw1TdogW1xM",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbe45fe2a1d7a0b226f541b0ab",
+                    "width": null
+                }
+            ],
+            "name": "country ",
+            "owner": {
+                "display_name": "ellie12554",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/ellie12554"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/ellie12554",
+                "id": "ellie12554",
+                "type": "user",
+                "uri": "spotify:user:ellie12554"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzMxLGVmMmQwMzQwMjMzZTY3OTM2NzZlMjRjMDMxYWMzYzU3Y2Y0YTIxNGU=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/5xFcqDydP5Fzw1TdogW1xM\/tracks",
+                "total": 167
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5xFcqDydP5Fzw1TdogW1xM"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/0pq5JQ0PF1bNn13u9cWdQK"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/0pq5JQ0PF1bNn13u9cWdQK",
+            "id": "0pq5JQ0PF1bNn13u9cWdQK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b273629f765496596c612e2ed7fdab67616d0000b273994c319841a923465d62e271ab67616d0000b2739b19c107109de740bad72df5ab67616d0000b273d81a092eb373ded457d94eec",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b273629f765496596c612e2ed7fdab67616d0000b273994c319841a923465d62e271ab67616d0000b2739b19c107109de740bad72df5ab67616d0000b273d81a092eb373ded457d94eec",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b273629f765496596c612e2ed7fdab67616d0000b273994c319841a923465d62e271ab67616d0000b2739b19c107109de740bad72df5ab67616d0000b273d81a092eb373ded457d94eec",
+                    "width": 60
+                }
+            ],
+            "name": "Old Skoo Rap",
+            "owner": {
+                "display_name": "kylew0210",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/kylew0210"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/kylew0210",
+                "id": "kylew0210",
+                "type": "user",
+                "uri": "spotify:user:kylew0210"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTA2LDM0OTUzODkxMGZlNWQ1MjlhZDUwM2ZlNGQ2ZjE4NTAwZWEyOGYwMjA=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/0pq5JQ0PF1bNn13u9cWdQK\/tracks",
+                "total": 74
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0pq5JQ0PF1bNn13u9cWdQK"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/28aUfQd41HbXBQlIMq2FK2"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/28aUfQd41HbXBQlIMq2FK2",
+            "id": "28aUfQd41HbXBQlIMq2FK2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2733e0c22d13bc9b4044e90ab9fab67616d0000b273743fa009bdf097d15c2ddd60ab67616d0000b27380f87845e4faf4d13922ebc9ab67616d0000b273b9fe968166411b66df1e69fd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2733e0c22d13bc9b4044e90ab9fab67616d0000b273743fa009bdf097d15c2ddd60ab67616d0000b27380f87845e4faf4d13922ebc9ab67616d0000b273b9fe968166411b66df1e69fd",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2733e0c22d13bc9b4044e90ab9fab67616d0000b273743fa009bdf097d15c2ddd60ab67616d0000b27380f87845e4faf4d13922ebc9ab67616d0000b273b9fe968166411b66df1e69fd",
+                    "width": 60
+                }
+            ],
+            "name": "Maria",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NSxiMjFjM2I2OTJlZjRkYTdjNDE0OGU4ODdiMDQ2MjQxNjJiYWI4ZjYy",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/28aUfQd41HbXBQlIMq2FK2\/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:28aUfQd41HbXBQlIMq2FK2"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/72OHHDXOYrnZPD2tzumTYu"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/72OHHDXOYrnZPD2tzumTYu",
+            "id": "72OHHDXOYrnZPD2tzumTYu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273a117ac19ee51aebdf05fe88cab67616d0000b273c7ea04a9b455e3f68ef82550ab67616d0000b273ef51817e6a6563b6f7ce5872",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273a117ac19ee51aebdf05fe88cab67616d0000b273c7ea04a9b455e3f68ef82550ab67616d0000b273ef51817e6a6563b6f7ce5872",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b273a117ac19ee51aebdf05fe88cab67616d0000b273c7ea04a9b455e3f68ef82550ab67616d0000b273ef51817e6a6563b6f7ce5872",
+                    "width": 60
+                }
+            ],
+            "name": "sAd SoNgS",
+            "owner": {
+                "display_name": "xander.maschke",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/xander.maschke"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/xander.maschke",
+                "id": "xander.maschke",
+                "type": "user",
+                "uri": "spotify:user:xander.maschke"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjIsN2ZhN2VmMmZjNzM4ZDdjNzEyMDU0ZThlNzg4NGYyODhhZjU5MWM1Zg==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/72OHHDXOYrnZPD2tzumTYu\/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:72OHHDXOYrnZPD2tzumTYu"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/6PFszuhJctuHL40zdUFHG3"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/6PFszuhJctuHL40zdUFHG3",
+            "id": "6PFszuhJctuHL40zdUFHG3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2738d38057a3c1e47c0f6efe8f3ab67616d0000b273a496dc8c33ca6d10668b3157",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2738d38057a3c1e47c0f6efe8f3ab67616d0000b273a496dc8c33ca6d10668b3157",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2738d38057a3c1e47c0f6efe8f3ab67616d0000b273a496dc8c33ca6d10668b3157",
+                    "width": 60
+                }
+            ],
+            "name": "Computer Generated Old 2",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzM4LDIzZDg4ZTUzYjNlZjViNzUxZTI1ODkzOGE1NDRiY2UxNGVlNzVmYTk=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/6PFszuhJctuHL40zdUFHG3\/tracks",
+                "total": 337
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6PFszuhJctuHL40zdUFHG3"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/4JHijcoHlYUoQJYAP0r9Sy"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/4JHijcoHlYUoQJYAP0r9Sy",
+            "id": "4JHijcoHlYUoQJYAP0r9Sy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2734787063b79530a7c07d17f53ab67616d0000b2738d38057a3c1e47c0f6efe8f3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2734787063b79530a7c07d17f53ab67616d0000b2738d38057a3c1e47c0f6efe8f3",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2734787063b79530a7c07d17f53ab67616d0000b2738d38057a3c1e47c0f6efe8f3",
+                    "width": 60
+                }
+            ],
+            "name": "Computer Generated Old",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzAyLDFiNzZhNWUzYjI1ZmI2YWY2ZmJlNTFmMWVlOGUxZmU0M2U4Mjc3ZmU=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/4JHijcoHlYUoQJYAP0r9Sy\/tracks",
+                "total": 300
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4JHijcoHlYUoQJYAP0r9Sy"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/2b5ftUlKxgmDZmZxiK94UX"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/2b5ftUlKxgmDZmZxiK94UX",
+            "id": "2b5ftUlKxgmDZmZxiK94UX",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2730e83637c6c3d3fbb4075f650ab67616d0000b27380472fd65df42a5f1c7ca1a7ab67616d0000b273b213d2d11e2862de082b9f02ab67616d0000b273d20c38f295039520d688a888",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2730e83637c6c3d3fbb4075f650ab67616d0000b27380472fd65df42a5f1c7ca1a7ab67616d0000b273b213d2d11e2862de082b9f02ab67616d0000b273d20c38f295039520d688a888",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2730e83637c6c3d3fbb4075f650ab67616d0000b27380472fd65df42a5f1c7ca1a7ab67616d0000b273b213d2d11e2862de082b9f02ab67616d0000b273d20c38f295039520d688a888",
+                    "width": 60
+                }
+            ],
+            "name": "Python 2006-2015 2",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzcyLGVhNDIyNDNkNzQ5OWNlMjQxNDMzMGQwNGU2NzcxZDBlOGE5ZWZhNzM=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/2b5ftUlKxgmDZmZxiK94UX\/tracks",
+                "total": 371
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2b5ftUlKxgmDZmZxiK94UX"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/5ffoYsFW9CGeoGWWk8rN5D"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/5ffoYsFW9CGeoGWWk8rN5D",
+            "id": "5ffoYsFW9CGeoGWWk8rN5D",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2738d38057a3c1e47c0f6efe8f3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2738d38057a3c1e47c0f6efe8f3",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27308240f5407fb2123e3d7b966ab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b2733b7492bb678d5d51683444aeab67616d0000b2738d38057a3c1e47c0f6efe8f3",
+                    "width": 60
+                }
+            ],
+            "name": "Python Old",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjczLGJjYTllNWVlZjdjN2FiMDFmOTU3ZmIwN2I2MjM3NmRlOTkxN2Y4M2I=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/5ffoYsFW9CGeoGWWk8rN5D\/tracks",
+                "total": 250
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5ffoYsFW9CGeoGWWk8rN5D"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/2qbGNGzOBmQf9DXmjy5Uf8"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/2qbGNGzOBmQf9DXmjy5Uf8",
+            "id": "2qbGNGzOBmQf9DXmjy5Uf8",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2732e35d25eb7288830d5540484ab67616d0000b273b08e9d9e74be3dc6d9f8712aab67616d0000b273fba64ec68bddd5ed9f8a467a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2732e35d25eb7288830d5540484ab67616d0000b273b08e9d9e74be3dc6d9f8712aab67616d0000b273fba64ec68bddd5ed9f8a467a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2732e35d25eb7288830d5540484ab67616d0000b273b08e9d9e74be3dc6d9f8712aab67616d0000b273fba64ec68bddd5ed9f8a467a",
+                    "width": 60
+                }
+            ],
+            "name": "Python 2016-Current",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTI4MyxjODgyZGUyY2RiOGIxNGFmMGY0N2M2M2QyNTcwZTA0NzY3ZGU0Mzgz",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/2qbGNGzOBmQf9DXmjy5Uf8\/tracks",
+                "total": 1282
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2qbGNGzOBmQf9DXmjy5Uf8"
+        },
+        {
+            "collaborative": false,
+            "description": "'80s New Wave, New Romantic and Post-punk.",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DXbB7yFaZiAQX"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1DXbB7yFaZiAQX",
+            "id": "37i9dQZF1DXbB7yFaZiAQX",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706f000000035909721edfa5bc3a5fec2ef7",
+                    "width": null
+                }
+            ],
+            "name": "The '80s All Lined Up",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/spotify"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxMDAwNTg4NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1DXbB7yFaZiAQX\/tracks",
+                "total": 150
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DXbB7yFaZiAQX"
+        },
+        {
+            "collaborative": false,
+            "description": "Genre-less. Quality first always. Cover: slowthai",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DWWBHeXOYZf74"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1DWWBHeXOYZf74",
+            "id": "37i9dQZF1DWWBHeXOYZf74",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706f00000003b6358177a4794a08169dd9f0",
+                    "width": null
+                }
+            ],
+            "name": "POLLEN",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/spotify"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYwOTk2NDYzNSwwMDAwMDMyYjAwMDAwMTc2ZDk1ZWM2NDIwMDAwMDE3NmQzYzhmOWQx",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/37i9dQZF1DWWBHeXOYZf74\/tracks",
+                "total": 183
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DWWBHeXOYZf74"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/2NCaCphtprXtFMubDGaY9Y"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/2NCaCphtprXtFMubDGaY9Y",
+            "id": "2NCaCphtprXtFMubDGaY9Y",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebb907a69efac55eeb8c90d7e73",
+                    "width": null
+                }
+            ],
+            "name": "lawn mowing",
+            "owner": {
+                "display_name": "Matt Smith",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/12151967542"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/12151967542",
+                "id": "12151967542",
+                "type": "user",
+                "uri": "spotify:user:12151967542"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "OTQzLDZhZTNiOWQ5YWZiNzA4ZDgzZjhjZjY4MzRiNTY0YTc3NWM1N2EzZDY=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/2NCaCphtprXtFMubDGaY9Y\/tracks",
+                "total": 958
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2NCaCphtprXtFMubDGaY9Y"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/5kGH00ig0hiCDjKwAw4nGB"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/5kGH00ig0hiCDjKwAw4nGB",
+            "id": "5kGH00ig0hiCDjKwAw4nGB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27318b8088fe0c3dbf78398b55aab67616d0000b2733119f490f02fcee6514e8604ab67616d0000b273785d4e702802da500fc78b32ab67616d0000b2737a6339d6ddfd579f77559b3c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27318b8088fe0c3dbf78398b55aab67616d0000b2733119f490f02fcee6514e8604ab67616d0000b273785d4e702802da500fc78b32ab67616d0000b2737a6339d6ddfd579f77559b3c",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27318b8088fe0c3dbf78398b55aab67616d0000b2733119f490f02fcee6514e8604ab67616d0000b273785d4e702802da500fc78b32ab67616d0000b2737a6339d6ddfd579f77559b3c",
+                    "width": 60
+                }
+            ],
+            "name": "Fireflies.",
+            "owner": {
+                "display_name": "Molly",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/pnb7wenfdz7cq8vjs4zuxed60"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/pnb7wenfdz7cq8vjs4zuxed60",
+                "id": "pnb7wenfdz7cq8vjs4zuxed60",
+                "type": "user",
+                "uri": "spotify:user:pnb7wenfdz7cq8vjs4zuxed60"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NDMzLDFlZmQ5OTBjZjJjNGZjNzU4MGZkMDdhNmZiNTU0ZTA3NzBjMjNlMmU=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/5kGH00ig0hiCDjKwAw4nGB\/tracks",
+                "total": 291
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5kGH00ig0hiCDjKwAw4nGB"
+        },
+        {
+            "collaborative": false,
+            "description": "Billy Joel's biggest hits and classics including &quot;Vienna&quot;, \u201cPiano Man,\u201d \u201cUptown Girl,\u201d \u201cWe Didn\u2019t Start the Fire,\u201d \u201cJust the Way You Are\u201d and \u201cThe Longest Time\u201d.",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/2WgQ96x6mlX6RMS2yuSmvp"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/2WgQ96x6mlX6RMS2yuSmvp",
+            "id": "2WgQ96x6mlX6RMS2yuSmvp",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbc8589328f3d716fc19e15158",
+                    "width": null
+                }
+            ],
+            "name": "Billy Joel: Ultimate Hits",
+            "owner": {
+                "display_name": "Billy Joel",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/billyjoelmusic"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/billyjoelmusic",
+                "id": "billyjoelmusic",
+                "type": "user",
+                "uri": "spotify:user:billyjoelmusic"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTkzLGQyMTNjMTU2YzhlNGEzNzYwYzA2YTFjYmEyZWU4NDRhNDdkNGMyNmE=",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/2WgQ96x6mlX6RMS2yuSmvp\/tracks",
+                "total": 57
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2WgQ96x6mlX6RMS2yuSmvp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/3rh8b7ET7vo0sTZAPC49Ee"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/3rh8b7ET7vo0sTZAPC49Ee",
+            "id": "3rh8b7ET7vo0sTZAPC49Ee",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b2734dd033f4cf3a0a58059cde69ab67616d0000b2738c4e95986c803791125e8991ab67616d0000b273988ede5e1276e758b5f9e577",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b2734dd033f4cf3a0a58059cde69ab67616d0000b2738c4e95986c803791125e8991ab67616d0000b273988ede5e1276e758b5f9e577",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2732a7db835b912dc5014bd37f4ab67616d0000b2734dd033f4cf3a0a58059cde69ab67616d0000b2738c4e95986c803791125e8991ab67616d0000b273988ede5e1276e758b5f9e577",
+                    "width": 60
+                }
+            ],
+            "name": "wake up!",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "OCwyNjUyYzY4MTI1MmQzY2NmNDI4YjQ2YjBjYjU3Yjc2ZDI5ODM3MWUz",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/3rh8b7ET7vo0sTZAPC49Ee\/tracks",
+                "total": 7
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3rh8b7ET7vo0sTZAPC49Ee"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/0aPtw0f75n64kOWkygX8E1"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/0aPtw0f75n64kOWkygX8E1",
+            "id": "0aPtw0f75n64kOWkygX8E1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273fb3dcedb1da63eb4be8c7433",
+                    "width": 640
+                }
+            ],
+            "name": "spaghetti songs ",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MiwxMDkzMjk5ZGQ4ZjQ1ODY1MWM0OWFiMjY1OTNmM2UwNWUzZDdhMWMx",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/0aPtw0f75n64kOWkygX8E1\/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0aPtw0f75n64kOWkygX8E1"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/20RrvYmbewHQtbvga4Rk9S"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/20RrvYmbewHQtbvga4Rk9S",
+            "id": "20RrvYmbewHQtbvga4Rk9S",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27331b5266ec683455e35d31860ab67616d0000b27367f94edad740366b0523ffeeab67616d0000b2738cf86a9be38868f1d73cdb58ab67616d0000b273fffbc6bb8f405c2dacf8d64b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27331b5266ec683455e35d31860ab67616d0000b27367f94edad740366b0523ffeeab67616d0000b2738cf86a9be38868f1d73cdb58ab67616d0000b273fffbc6bb8f405c2dacf8d64b",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27331b5266ec683455e35d31860ab67616d0000b27367f94edad740366b0523ffeeab67616d0000b2738cf86a9be38868f1d73cdb58ab67616d0000b273fffbc6bb8f405c2dacf8d64b",
+                    "width": 60
+                }
+            ],
+            "name": "this would be great ",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYsNmYyYWZjNGY0ZTkwMDU1Yzk4Y2E2MDg4MzVjMmQ1ZjllNjAzNWY4MA==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/20RrvYmbewHQtbvga4Rk9S\/tracks",
+                "total": 15
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:20RrvYmbewHQtbvga4Rk9S"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/0TC5cawyyF5HIEUeBWnXyK"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/0TC5cawyyF5HIEUeBWnXyK",
+            "id": "0TC5cawyyF5HIEUeBWnXyK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b2730c3a1b46b6b846dfdfbc6a7dab67616d0000b2733e0c22d13bc9b4044e90ab9fab67616d0000b273db3f7294d4bfadae81f77b38ab67616d0000b273f5601676db551cb2a09e70a0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2730c3a1b46b6b846dfdfbc6a7dab67616d0000b2733e0c22d13bc9b4044e90ab9fab67616d0000b273db3f7294d4bfadae81f77b38ab67616d0000b273f5601676db551cb2a09e70a0",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b2730c3a1b46b6b846dfdfbc6a7dab67616d0000b2733e0c22d13bc9b4044e90ab9fab67616d0000b273db3f7294d4bfadae81f77b38ab67616d0000b273f5601676db551cb2a09e70a0",
+                    "width": 60
+                }
+            ],
+            "name": "wide open field",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NywwODYxNGZiZGQyZmQwOWMzNTA0NDIzY2NmMGM1OWYzMWQ1NGViZTI2",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/0TC5cawyyF5HIEUeBWnXyK\/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0TC5cawyyF5HIEUeBWnXyK"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/3p0eun2u8v1eKytFEPOChz"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/3p0eun2u8v1eKytFEPOChz",
+            "id": "3p0eun2u8v1eKytFEPOChz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b27345190a074bef3e8ce868b60cab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b2738863bc11d2aa12b54f5aeb36ab67616d0000b273d79cfa3155b50beb5dbeeb9a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27345190a074bef3e8ce868b60cab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b2738863bc11d2aa12b54f5aeb36ab67616d0000b273d79cfa3155b50beb5dbeeb9a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b27345190a074bef3e8ce868b60cab67616d0000b2734718e2b124f79258be7bc452ab67616d0000b2738863bc11d2aa12b54f5aeb36ab67616d0000b273d79cfa3155b50beb5dbeeb9a",
+                    "width": 60
+                }
+            ],
+            "name": "booming",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTgsMGY2NmYyNjgxMmJhNjg1YjA1M2U5MDYwYWYyNzM0MDFhYmE2YjQzNQ==",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/3p0eun2u8v1eKytFEPOChz\/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3p0eun2u8v1eKytFEPOChz"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https:\/\/open.spotify.com\/playlist\/5DB3AXBvTaP2qoruMBvhpn"
+            },
+            "href": "https:\/\/api.spotify.com\/v1\/playlists\/5DB3AXBvTaP2qoruMBvhpn",
+            "id": "5DB3AXBvTaP2qoruMBvhpn",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b27328ae9a159d24cb0ab2552712ab67616d0000b2739b7190e673e46271b2754aabab67616d0000b273d84a9bbcba91cb6a4a212b1b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b27328ae9a159d24cb0ab2552712ab67616d0000b2739b7190e673e46271b2754aabab67616d0000b273d84a9bbcba91cb6a4a212b1b",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d0000b273198b72cd638a4ddea81b0b03ab67616d0000b27328ae9a159d24cb0ab2552712ab67616d0000b2739b7190e673e46271b2754aabab67616d0000b273d84a9bbcba91cb6a4a212b1b",
+                    "width": 60
+                }
+            ],
+            "name": "night",
+            "owner": {
+                "display_name": "karan.arora.28",
+                "external_urls": {
+                    "spotify": "https:\/\/open.spotify.com\/user\/karan.arora.28"
+                },
+                "href": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28",
+                "id": "karan.arora.28",
+                "type": "user",
+                "uri": "spotify:user:karan.arora.28"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "Nyw2MTkwNzQxZDhlYjUzOWQ4MTc5YmRiZDlhMTEwNGU1NDY0YTMyMDYx",
+            "tracks": {
+                "href": "https:\/\/api.spotify.com\/v1\/playlists\/5DB3AXBvTaP2qoruMBvhpn\/tracks",
+                "total": 6
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5DB3AXBvTaP2qoruMBvhpn"
+        }
+    ],
+    "limit": 50,
+    "next": "https:\/\/api.spotify.com\/v1\/users\/karan.arora.28\/playlists?offset=50&limit=50",
+    "offset": 0,
+    "previous": null,
+    "total": 145
+}
