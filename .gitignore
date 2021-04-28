@@ -1,2 +1,4 @@
 .idea/*
 secrets.py
+.cache-karan.arora.28
+__pycache__/*

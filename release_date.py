@@ -3,7 +3,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from spotipy import Spotify
 #from spotipy import util
-from . import secrets
+import secrets
 import ujson
 #import os
 
@@ -67,6 +67,7 @@ class BetterSpotifyPlaylistMaker:
     def addByReleaseDate(self, newPlaylistID: str, sourcePlaylistID: str, compareYears: tuple, beforeAfterChoice: int) -> None:
         
         add = []
+        flag = False
 
         # Assign the appropriate functor
         if beforeAfterChoice == 1:
@@ -78,19 +79,55 @@ class BetterSpotifyPlaylistMaker:
 
         # If a playlistID is supplied, use it
         if sourcePlaylistID:
-            searchThrough = self.sp.playlist(sourcePlaylistID)["tracks"]["items"]
+            searchThrough = self.sp.playlist(sourcePlaylistID)["tracks"] #["items"]
         # If the playlistID is none, go through user's saved tracks
         else:
-            searchThrough = self.sp.current_user_saved_tracks()["items"]
-        
-        # Grab each track's release date from the appropriate source and add it to the list conditionally
-        for track in searchThrough:
-            trackYear = int(track["track"]["album"]["release_date"][0:4])
+            searchThrough = self.sp.current_user_saved_tracks(limit=50)\
 
-            if (functor(trackYear, compareYears)):
-                add.append(track["track"]["id"])
+        while searchThrough["next"]:
+            tracks = searchThrough["items"]
+
+            # Grab each track's release date from the appropriate source and add it to the list conditionally
+            for track in tracks:
+                # If song is not on Spotify (manually added), ignore it
+                try:
+                    trackYear = int(track["track"]["album"]["release_date"][0:4])
+
+                    if (functor(trackYear, compareYears)):
+                        add.append(track["track"]["id"])
+                        
+                except TypeError:
+                    print("Skipped")
+            
+            # Maximum number of songs you can add at a time is 100 
+            # Reset add as it hits 100
+            if len(add) > 100:
+                self.sp.playlist_add_items(newPlaylistID, add[0:100], None)
+                add = add[100:]
+            
+            searchThrough = self.sp.next(searchThrough)
         
-        # If the list is not empty
+        tracks = searchThrough["items"]
+
+        # Grab each track's release date from the appropriate source and add it to the list conditionally
+        for track in tracks:
+            try:
+                trackYear = int(track["track"]["album"]["release_date"][0:4])
+
+                if (functor(trackYear, compareYears)):
+                    add.append(track["track"]["id"])
+                    
+            except TypeError:
+                print("Skipped")
+        
+        # Maximum number of songs you can add at a time is 100 
+        # Reset add as it hits 100
+        if len(add) > 100:
+            self.sp.playlist_add_items(newPlaylistID, add[0:100], None)
+            add = add[100:]
+        
+            
+        # If the list is not empty, add the last remaining songs
         if add:
             self.sp.playlist_add_items(newPlaylistID, add, None)
 
@@ -106,7 +143,7 @@ class BetterSpotifyPlaylistMaker:
     # USER HAS TO ENTER A VALID PLAYLIST NUMBER FINISH
     # Prompt user to pick a playlist and return that playlist's ID
     def pickPlaylists(self, json) -> str:
-        num = int(input("Which playlist would you like to use to create a new playlist?"))
+        num = int(input("Which playlist would you like to use to create a new playlist? "))
         #playlist = json["items"][num-1]
         id = json["items"][num-1]["id"]
         #self.writeJSON("playlist.json", self.sp.playlist(id))
@@ -115,20 +152,20 @@ class BetterSpotifyPlaylistMaker:
     
     # Driver function for creating playlists by release date
     def releaseDate(self) -> None:
-        newPlaylistName = input("New playlist name?")
-        beforeAfterChoice = self.verifyInput("before, after, or range? (1/2/3)", [1, 2, 3])
+        newPlaylistName = input("New playlist name: ")
+        beforeAfterChoice = self.verifyInput("before, after, or range? (1/2/3) ", [1, 2, 3])
         
         # Ask for year and create tuple
         if beforeAfterChoice == 1 or beforeAfterChoice == 2:
-            year = int(input("What year?"))
+            year = int(input("What year? "))
             years = (year,)
 
         # If user chooses 'range', then ask for two years
         else:
-            startYear, endYear = input("Range of years (ex: 2002 2010)").split()
+            startYear, endYear = input("Range of years (ex: 2002 2010) ").split()
             years = (int(startYear), int(endYear))
                 
-        choice = self.verifyInput("would you like to search through a playlist(1) or your Liked Songs(2)?", [1, 2])
+        choice = self.verifyInput("would you like to search through a playlist(1) or your Liked Songs(2)? ", [1, 2])
         
         # Print playlists, pick one, create a new playlist, and add to that new playlist
         if choice == 1:
