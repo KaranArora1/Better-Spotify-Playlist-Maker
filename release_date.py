@@ -31,6 +31,8 @@ class BetterSpotifyPlaylistMaker:
         self.username = username
         self.sp = self.login() # Spotify object 
         self.name = self.sp.current_user()["display_name"]
+        self.filteringOptions = {1: ("Release Date", self.releaseDate), 
+                                 2: ("Genre", self.genre)}
     
     # Make sure you login with the correct account (same one as username entered)
     def login(self) -> spotipy.Spotify:
@@ -64,7 +66,7 @@ class BetterSpotifyPlaylistMaker:
         return compareTo[0] < trackReleaseYear < compareTo[1]
 
     # Adds tracks to a playlist depending on their release date
-    def addByReleaseDate(self, newPlaylistID: str, sourcePlaylistID: str, compareYears: tuple, beforeAfterChoice: int) -> None:
+    def addByReleaseDate(self, newPlaylistID: str, sourcePlaylistID: str, compareYears: tuple, beforeAfterChoice: int):
         
         add = []
         flag = False
@@ -82,11 +84,11 @@ class BetterSpotifyPlaylistMaker:
             searchThrough = self.sp.playlist(sourcePlaylistID)["tracks"] #["items"]
         # If the playlistID is none, go through user's saved tracks
         else:
-            searchThrough = self.sp.current_user_saved_tracks(limit=50)\
+            searchThrough = self.sp.current_user_saved_tracks(limit=50)
 
         while searchThrough["next"]:
             tracks = searchThrough["items"]
-
+            
             # Grab each track's release date from the appropriate source and add it to the list conditionally
             for track in tracks:
                 # If song is not on Spotify (manually added), ignore it
@@ -107,9 +109,9 @@ class BetterSpotifyPlaylistMaker:
             
             searchThrough = self.sp.next(searchThrough)
         
+        # Get remaining songs that were not added by loop 
         tracks = searchThrough["items"]
 
-        # Grab each track's release date from the appropriate source and add it to the list conditionally
         for track in tracks:
             try:
                 trackYear = int(track["track"]["album"]["release_date"][0:4])
@@ -120,25 +122,50 @@ class BetterSpotifyPlaylistMaker:
             except TypeError:
                 print("Skipped")
         
-        # Maximum number of songs you can add at a time is 100 
-        # Reset add as it hits 100
         if len(add) > 100:
             self.sp.playlist_add_items(newPlaylistID, add[0:100], None)
             add = add[100:]
-        
             
         # If the list is not empty, add the last remaining songs
         if add:
             self.sp.playlist_add_items(newPlaylistID, add, None)
 
+    def addByGenre(self, newPlaylistID: str, sourcePlaylistID: str, genre):
+        pass
+        add = []
+
+        if sourcePlaylistID:
+            searchThrough = self.sp.playlist(sourcePlaylistID)["tracks"]
+        else:
+            searchThrough = self.sp.current_user_saved_tracks(limit=50)
+        
+        
+
     # Print all of a user's playlists (numbered)
-    def printPlaylists(self, json) -> None:
+    def printPlaylists(self, json):
  
         index = 1
         
         for playlist in json['items']:
             print(str(index) + ": " + playlist["name"])
             index += 1
+    
+    def printGenres(self, playlistID: str):
+        
+        index = 1
+        tracks = self.sp.playlist(playlistID)["items"]
+        genres = {}
+
+        for track in tracks:
+            albumID = tracks[track]["album"]["id"]
+
+            album = self.sp.album(albumID)
+
+            for genre in album["genres"]:
+                genres.add(genre) 
+        
+        for genre in genres:
+            print(genre)
 
     # USER HAS TO ENTER A VALID PLAYLIST NUMBER FINISH
     # Prompt user to pick a playlist and return that playlist's ID
@@ -151,7 +178,7 @@ class BetterSpotifyPlaylistMaker:
         return id
     
     # Driver function for creating playlists by release date
-    def releaseDate(self) -> None:
+    def releaseDate(self):
         newPlaylistName = input("New playlist name: ")
         beforeAfterChoice = self.verifyInput("before, after, or range? (1/2/3) ", [1, 2, 3])
         
@@ -172,15 +199,49 @@ class BetterSpotifyPlaylistMaker:
             json = self.sp.current_user_playlists()
             self.printPlaylists(json)
             #self.writeJSON("release_date.json", json)
+
             sourcePlaylistID = self.pickPlaylists(json)
             newPlaylistID = self.createPlaylist(newPlaylistName, "release date")["id"]
+
             self.addByReleaseDate(newPlaylistID, sourcePlaylistID, years, beforeAfterChoice)
 
         # Create a new playlist and add to it from Liked Songs
         else:
-            #json = self.sp.current_user_saved_tracks()
             newPlaylistID = self.createPlaylist(newPlaylistName, "release date")["id"]
             self.addByReleaseDate(newPlaylistID, None, years, beforeAfterChoice)
+    
+    def genre(self):
+        newPlaylistName = input("New playlist name: ")
+        choice = self.verifyInput("Would you like to search through a playlist(1) or your Liked Songs(2)? ", [1, 2])
+        
+        if choice == 1:
+            json = self.sp.current_user_playlists()
+            self.printPlaylists(json)
+            sourcePlaylistID = self.pickPlaylists(json)
+
+            self.printGenres(sourcePlaylistID)
+
+            genre = str(input("What genre? "))
+            genres = (genre,)
+
+            newPlaylistID = self.createPlaylist(newPlaylistName, "genre")["id"]
+            self.addByGenre(newPlaylistID, sourcePlaylistID, genres)
+        
+        else:
+            self.printGenres(json)
+
+            genre = str(input("What genre? "))
+            genres = (genre,)
+
+            newPlaylistID = self.createPlaylist(newPlaylistName, "genre")["id"]
+            self.addByGenre(newPlaylistID, None, genres)
+
+    def printFilteringOptions(self):
+        for item in self.filteringOptions.items():
+            key = str(item[0])
+            optionName = item[1][0]
+
+            print(key + ": " + optionName)
 
     # Helper to write JSON to a file
     def writeJSON(self, filename: str, json):
@@ -191,7 +252,15 @@ class BetterSpotifyPlaylistMaker:
     # Run BetterSpotifyPlaylistMaker's methods in one function
     def run(self):
         self.login()
-        self.releaseDate()
+
+        print()
+        self.printFilteringOptions()
+        print()
+
+        choice = self.verifyInput("How would you like to filter your songs? ", self.filteringOptions.keys())
+        function = self.filteringOptions[choice][1]
+        
+        function()
     
 
 def main():
